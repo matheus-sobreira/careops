@@ -1,0 +1,3 @@
+## Resumo – Atividade B
+
+Nesta atividade eu conectei relatórios de Threat Intelligence com o contexto da CareOps+, escolhendo ameaças que afetam diretamente aplicações web, nuvem, pipelines CI/CD e supply chain. A partir delas, mapeei práticas do NIST SSDF que ajudam a estruturar um SDLC mais seguro, pensando em proteger ambientes, definir requisitos de segurança e responder melhor a incidentes. Em seguida, relacionei cada ameaça a práticas do OWASP SAMM, o que ajudou a enxergar segurança não só como ferramenta, mas como processo contínuo de governança, design, implementação, verificação e operações. No fim, ficou mais claro como DevSecOps depende de enxergar o cenário de ameaças de forma realista e de traduzir essa visão em decisões concretas dentro do pipeline.
